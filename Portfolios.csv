@@ -20,6 +20,9 @@ Kristen Kiefer,AAPL,0.3,60000
 Deanna Coleman,AAPL,0.15,30000
 Karen Koster,AAPL,0.05,10000
 Angela Cannistraci,AAPL,0.05,10000
+Gregory Hanselman,AAPL,0.1,20000
+Lyn Wiltsie,AAPL,0.2,40000
+Schuyler Bull,AAPL,10%,20000
 Lyn Wiltsie,ACB,0.18,36000
 Pete Lindner,ACER,0.08,16000
 Randy Benedict,ACST,0.25,50000
@@ -29,6 +32,7 @@ Luke Scarchilli,AEP,0.2,40000
 Caitlyn Fronckowiak,AGTHX,0.05,10000
 Adrienne Villano,AGTHX,0.11,22000
 Bradley Bonfante ,ALGN,0.15,30000
+Jennah Hebert V1,AMAT,5%,10000
 BETH PHILLIPS,AMD,0.1,20000
 Sherlock Bacchus,AMD,0.1,20000
 Nick Capullo,AMD,0.25,50000
@@ -47,17 +51,19 @@ Karen Koster,AMZN,0.05,10000
 Lyn Wiltsie,AMZN,0.1,20000
 Emmalie Giaimo,AMZN,0.2,40000
 Dominick Baker,AMZN,0.07,14000
-Gregory Hanselman,AAPL,0.1,20000
-Lyn Wiltsie,AAPL,0.2,40000
+Schuyler Bull,AMZN,15%,30000
+Jennah Hebert V1,APPL,8%,16000
+Jennah Hebert V1,APPL,7%,14000
 KIMBERLY MATZEN,APTV,0.15,30000
+Jennah Hebert V2,ASML,5%,10000
 Elise Shaver,ASPU,0.25,50000
-Estelle Genest,T,0.04,8000
-Sherlock Bacchus,T,0.05,10000
 JOELEAN MCBRIDE,ATLC,0.1,20000
 Marie Barkamian,ATLC,0.1,20000
 Bradley Bonfante ,ATVI,0.15,30000
 Kelly Nicholson,ATVI,0.2,40000
+Jennah Hebert V1,ATVI,3%,6000
 Brian Kreis,AVGO,0.2,40000
+Jennah Hebert V2,AVGO,4%,8000
 Melissa Stamper,BA,0.1,20000
 Barb Derian,BA,0.1,20000
 Rekha Singh ,BA,0.1,20000
@@ -66,11 +72,13 @@ Melissa Stamper,BABA,0.15,30000
 Eli Rabinowitz,BABA,0.2,40000
 Ryan St. Peter,BABA,0.25,50000
 Brian Kreis,BABA,0.2,40000
+Dan Cancelliere,BABA,25%,50000
 Bradley Bonfante ,BAC,0.1,20000
 Kristen Kiefer,BAC,0.1,20000
 Barb Derian,BAH,0.1,20000
 Angela MacMurray,BAM,0.15,30000
 Sharon Strock ,BAM,0.12,24000
+Estelle Genest,BARC,0.02,4000
 Deanna Coleman,BBT,0.05,10000
 Brian Kreis,BBT,0.15,30000
 Angela MacMurray,BEP,0.1,20000
@@ -78,6 +86,7 @@ DANISH SHARPE,BEP,0.05,10000
 Antigona Beshello ,BJ,0.03,6000
 Barb Derian,BLDR,0.1,20000
 BETH PHILLIPS,BLL,0.25,50000
+Jennah Hebert V1,BLL,9%,18000
 Nori Lansing,BOX,0.07,14000
 KIMBERLY MATZEN,BOX,0.1,20000
 Alexandra Sautin,BRK-B,0.1,20000
@@ -89,7 +98,7 @@ Angela Cannistraci,C,0.05,10000
 Kristyn Constantino,CARA,0.2,40000
 DANISH SHARPE,CASH*,0.08,16000
 Emmalie Giaimo,CASH*,0.06,12000
-Kristen Kiefer,CSCO,0.1,20000
+Jennah Hebert V1,CB,9%,18000
 Sharon Strock ,CELG,0.13,26000
 Angela MacMurray,CGC,0.2,40000
 Teresa Purcell,CGC,0.1,20000
@@ -98,35 +107,40 @@ Lyn Wiltsie,CGC,0.2,40000
 Adrienne Villano,CHE,0.18,36000
 Eli Rabinowitz,CHK,0.1,20000
 Randy Benedict,CHK,0.15,30000
+Dominick Baker,CHK,0.02,4000
 BETH PHILLIPS,CHWY,0.17,34000
 Rekha Singh ,CHWY,0.06,12000
 Angela Cannistraci,CHWY,0.05,10000
 Kelly Nicholson,CHWY,0.2,40000
-Dominick Baker,CHK,0.02,4000
 Nori Lansing,CLB,0.03,6000
 Teresa Purcell,CLB,0.05,10000
 Joseph Lindner,CLB,0.1,20000
 Alexandra Sautin,CMCSA,0.05,10000
 DANISH SHARPE,CMCSA,0.08,16000
 Karen Koster,CMG,0.05,10000
+Jennah Hebert V1,CMG,12%,24000
+Jennah Hebert V2,CMG,8%,16000
 Nori Lansing,COF,0.2,40000
 Teresa Purcell,COF,0.05,10000
 Joseph Lindner,COF,0.05,10000
 KIMBERLY MATZEN,CORE,0.05,10000
 KWUN CHAN,COST,0.03,6000
 Nick Capullo,COST,0.1,20000
+Jennah Hebert V1,COST,10%,20000
+Schuyler Bull,COST,5%,10000
 Sharon Strock ,COUP,0.07,14000
 Antigona Beshello ,CPRI,0.04,8000
 Emmalie Giaimo,CRI,0.04,8000
 KWUN CHAN,CRK,0.1,20000
 Angela MacMurray,CRON,0.1,20000
 KIMBERLY MATZEN,CRSP,0.15,30000
+Kristen Kiefer,CSCO,0.1,20000
 Teresa Purcell,CSCO,0.03,6000
 Luke Scarchilli,CSCO,0.2,40000
 Sharon Strock ,CTSH,0.1,20000
-Alexandra Sautin,CVS,0.05,10000
 Rekha Singh ,CVRS,0.07,14000
 Angela Cannistraci,CVRS,0.1,20000
+Alexandra Sautin,CVS,0.05,10000
 Eli Rabinowitz,CWBHF,0.1,20000
 Ryan St. Peter,CWST,0.5,100000
 Emmalie Giaimo,CWST,0.02,4000
@@ -166,6 +180,7 @@ Emmalie Giaimo,EA,0.05,10000
 David Hunn,ECA,0.25,50000
 Nori Lansing,EGRX,0.1,20000
 KWUN CHAN,ENPH,0.02,4000
+Jennah Hebert V2,EQIX,3%,6000
 Elise Shaver,FAST,0.0833,16660
 Teresa Purcell,FATE,0.05,10000
 Joseph Lindner,FATE,0.05,10000
@@ -173,6 +188,8 @@ Angela MacMurray,FB,0.1,20000
 Antigona Beshello ,FB,0.06,12000
 Marie Barkamian,FB,0.1,20000
 Emmalie Giaimo,FB,0.1,20000
+Schuyler Bull,FB,15%,30000
+Dan Cancelliere,FB,25%,50000
 Luke Scarchilli,FDX,0.2,40000
 Estelle Genest,FLOT,0.04,8000
 Emmalie Giaimo,FNKO,0.03,6000
@@ -189,6 +206,7 @@ Antigona Beshello ,GE,0.03,6000
 Eli Rabinowitz,GE,0.1,20000
 Alexandra Sautin,GE,0.05,10000
 Sue Dymond,GE,0.15,30000
+Dan Cancelliere,GE,25%,50000
 Melissa Stamper,GILD,0.15,30000
 Elise Shaver,GME,0.0833,16660
 Melissa Stamper,GOOG,0.17,34000
@@ -203,6 +221,7 @@ Estelle Genest,HAS,0.06,12000
 Trudy Seeber,HD,0.1,20000
 Estelle Genest,HD,0.04,8000
 Sharon Strock ,HD,0.11,22000
+Jennah Hebert V2,HD,7%,14000
 KIMBERLY MATZEN,HOME,0.1,20000
 Sherlock Bacchus,HON,0.25,50000
 Kelly Nicholson,HOV,0.2,40000
@@ -217,6 +236,7 @@ Joseph Lindner,INCY,0.2,40000
 Kelly Nicholson,INFY,0.2,40000
 Caitlyn Fronckowiak,INTC,0.1,20000
 Sharon Strock ,INTC,0.13,26000
+Jennah Hebert V2,IQV,3%,6000
 Krista Nash,JNJ,0.12,24000
 Antigona Beshello ,JNJ,0.06,12000
 Alexandra Sautin,JNJ,0.1,20000
@@ -224,6 +244,7 @@ Deanna Coleman,JNJ,0.05,10000
 Anil Mulchandani,JNJ,0.2,40000
 Robert Kovacs,JP,1,200000
 Alexandra Sautin,JPM,0.05,10000
+Schuyler Bull,JPM,10%,20000
 Elise Shaver,KALV,0.25,50000
 Randy Benedict,KHC,0.15,30000
 Deanna Coleman,KHC,0.05,10000
@@ -238,6 +259,7 @@ Dominick Baker,LLNW,0.05,10000
 Dominick Baker,LLY,0.05,10000
 Luke Scarchilli,LMT,0.2,40000
 Bradley Bonfante ,LOW,0.15,30000
+Jennah Hebert V1,LRCX,7%,14000
 Karen Koster,LULU,0.2,40000
 Gregory Hanselman,MARK,0.05,10000
 KWUN CHAN,MCD,0.05,10000
@@ -247,6 +269,7 @@ Anil Mulchandani,MCD,0.15,30000
 Barb Derian,MCK,0.1,20000
 Gregory Hanselman,MJ,0.2,40000
 BETH PHILLIPS,MKTX,0.12,24000
+Jennah Hebert V1,MKTX,9%,18000
 Nori Lansing,MO,0.2,40000
 Joseph Lindner,MO,0.1,20000
 Trudy Seeber,MOMO,0.15,30000
@@ -259,11 +282,15 @@ Barb Derian,MSFT,0.1,20000
 DANISH SHARPE,MSFT,0.07,14000
 Bradley Bonfante ,MSFT,0.15,30000
 Deanna Coleman,MSFT,0.15,30000
+Jennah Hebert V2,MSFT,7%,14000
+Jennah Hebert V1,MTCH,12%,24000
 Kristen Kiefer,MU,0.4,80000
+Jennah Hebert V1,MU,7%,14000
 ALISA CIANFARANI,NFLX,0.3,60000
 Alexandra Sautin,NFLX,0.1,20000
 Elise Shaver,NFLX,0.0834,16680
 Emmalie Giaimo,NFLX,0.15,30000
+Schuyler Bull,NFLX,5%,10000
 Emmalie Giaimo,NGG,0.15,30000
 Antigona Beshello ,NKE,0.07,14000
 Sherlock Bacchus,NKE,0.15,30000
@@ -299,17 +326,19 @@ Kristyn Constantino,PBFS,0.15,30000
 Deanna Coleman,PBFS,0.2,40000
 Lyn Wiltsie,PBFS,0.02,4000
 Angela Cannistraci,PBFS,0.5,100000
-Colton Young,PIR,0.2,40000
 Sue Dymond,PEP,0.15,30000
 Sherlock Bacchus,PEP,0.05,10000
 Anil Mulchandani,PEP,0.15,30000
 Dominick Baker,PFE,0.05,10000
+Schuyler Bull,PFE,5%,10000
 Karen Koster,PFPT,0.15,30000
 Sue Dymond,PG,0.1,20000
+Antigona Beshello ,PG,0.07,14000
+Jennah Hebert V2,PG,3%,6000
+Colton Young,PIR,0.2,40000
 JOELEAN MCBRIDE,PIR,0.15,30000
 Brian Kreis,PLAY,0.1,20000
 Dominick Baker,PLUG,0.05,10000
-Antigona Beshello ,PO,0.07,14000
 KWUN CHAN,PW,0.08,16000
 Eli Rabinowitz,PXD,0.1,20000
 Melissa Stamper,PYPL,0.05,10000
@@ -321,6 +350,7 @@ Caitlyn Fronckowiak,ROKU,0.15,30000
 BETH PHILLIPS,ROKU,0.15,30000
 Dominick Baker,ROKU,0.05,10000
 Sue Dymond,ROKU,0.3,60000
+Jennah Hebert V2,ROKU,5%,10000
 KWUN CHAN,ROX,0.1,20000
 Dominick Baker,ROX,0.02,4000
 Estelle Genest,RUN,0.02,4000
@@ -335,20 +365,28 @@ Alexandra Sautin,SBUX,0.1,20000
 Sharon Strock ,SBUX,0.08,16000
 Karen Koster,SBUX,0.05,10000
 Lyn Wiltsie,SBUX,0.1,20000
+Jennah Hebert V2,SBUX,5%,10000
+Schuyler Bull,SBUX,10%,20000
 ALISA CIANFARANI,SDC,0.1,20000
 KWUN CHAN,SEDG,0.09,18000
+Jennah Hebert V1,SEDG,12%,24000
+Jennah Hebert V1,SFIX,3%,6000
 Estelle Genest,SFM,0.1,20000
 KWUN CHAN,SHAK,0.04,8000
 Angela MacMurray,SHOP,0.06,12000
 KWUN CHAN,SKIS,0.04,8000
+Dan Cancelliere,SNAP,25%,50000
 DANISH SHARPE,SNE,0.05,10000
-Estelle Genest,SPID,0.02,4000
+Jennah Hebert V1,SNPS,8%,16000
 Dominick Baker,SPWH,0.02,4000
 Adrienne Villano,SPY,0.15,30000
 Eli Rabinowitz,SQ,0.1,20000
 KIMBERLY MATZEN,SQ,0.15,30000
+Jennah Hebert V1,SQ,3%,6000
 ALISA CIANFARANI,SWTX,0.1,20000
 Kristyn Constantino,SYK,0.1,20000
+Estelle Genest,T,0.04,8000
+Sherlock Bacchus,T,0.05,10000
 Caitlyn Fronckowiak,T,0.1,20000
 Sue Dymond,T,0.1,20000
 Anil Mulchandani,T,0.15,30000
@@ -364,11 +402,14 @@ Estelle Genest,TGT,0.1,20000
 Marie Barkamian,TGT,0.1,20000
 Anil Mulchandani,TGT,0.2,40000
 Karen Koster,TGT,0.1,20000
+Jennah Hebert V1,TGT,5%,10000
+Schuyler Bull,TGT,5%,10000
 Melissa Stamper,TLRY,0.05,10000
 Caitlyn Fronckowiak,TRBCX,0.15,30000
 Deanna Coleman,TRV,0.05,10000
 Bradley Bonfante ,TSLA,0.1,20000
 Estelle Genest,TSN,0.04,8000
+Jennah Hebert V2,TSN,3%,6000
 Caitlyn Fronckowiak,TSS,0.13,26000
 Gregory Hanselman,TV,0.05,10000
 JOELEAN MCBRIDE,TWTR,0.1,20000
@@ -380,11 +421,13 @@ Deanna Coleman,URI,0.05,10000
 Barb Derian,UTX,0.1,20000
 Krista Nash,UTX,0.45,90000
 Pete Lindner,UUUU,0.5,100000
+Jennah Hebert V2,V,3%,6000
 Gregory Hanselman,VHC,0.15,30000
 Jacqueline Lorenz,VIXY,0.25,50000
 Estelle Genest,VTSNX,0.04,8000
 Barb Derian,VZ,0.1,20000
 Sue Dymond,VZ,0.1,20000
+Jennah Hebert V2,WDC,7%,14000
 Gregory Hanselman,WKHS,0.25,50000
 Kristyn Constantino,WMGI,0.1,20000
 KIMBERLY MATZEN,WMS,0.1,20000
@@ -395,6 +438,8 @@ Marie Barkamian,WMT,0.15,30000
 Sherlock Bacchus,WMT,0.05,10000
 Anil Mulchandani,WMT,0.15,30000
 Karen Koster,WMT,0.05,10000
+Jennah Hebert V2,WMT,3%,6000
+Schuyler Bull,WMT,5%,10000
 KWUN CHAN,WORK,0.02,4000
 Nick Capullo,WORK,0.05,10000
 Ryan St. Peter,X,0.25,50000
@@ -405,6 +450,8 @@ Rekha Singh ,XOM,0.08,16000
 David Hunn,XOM,0.1,20000
 Krista Nash,XOM,0.13,26000
 Angela Cannistraci,XOM,0.1,20000
+Schuyler Bull,XOM,15%,30000
 Krista Nash,YUM,0.2,40000
+Jennah Hebert V2,ZBH,5%,10000
 Pete Lindner,ZIXI,0.3,60000
 Nick Capullo,ZUMZ,0.1,20000

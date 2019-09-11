@@ -185,7 +185,6 @@ Emmalie Giaimo,FNKO,0.03,6000
 Emmalie Giaimo,NFLX,0.15,30000
 Emmalie Giaimo,NGG,0.15,30000
 Estelle Genest,AAPL,0.02,4000
-Estelle Genest,SPAB,0.02,4000
 Estelle Genest,BUD,0.2,40000
 Estelle Genest,DIS,0.06,12000
 Estelle Genest,FLOT,0.04,8000
@@ -194,6 +193,7 @@ Estelle Genest,HD,0.04,8000
 Estelle Genest,NSEC,0.02,4000
 Estelle Genest,RUN,0.02,4000
 Estelle Genest,SFM,0.1,20000
+Estelle Genest,SPAB,0.02,4000
 Estelle Genest,T,0.04,8000
 Estelle Genest,TGT,0.1,20000
 Estelle Genest,TSN,0.04,8000
@@ -213,37 +213,37 @@ Jacqueline Lorenz,AMZN,0.25,50000
 Jacqueline Lorenz,DIS,0.25,50000
 Jacqueline Lorenz,VIXY,0.25,50000
 Jennah Hebert V1,AMAT,0.05,10000
-Jennah Hebert V1,AAPL,0.08,16000
-Jennah Hebert V1,AAPL,0.07,14000
+Jennah Hebert V1,APPL,0.07,14000
+Jennah Hebert V1,ASML,0.05,10000
 Jennah Hebert V1,ATVI,0.03,6000
-Jennah Hebert V1,BLL,0.09,18000
-Jennah Hebert V1,CB,0.09,18000
-Jennah Hebert V1,CMG,0.12,24000
-Jennah Hebert V1,COST,0.1,20000
+Jennah Hebert V1,AVGO,0.04,8000
+Jennah Hebert V1,CMG,0.08,16000
+Jennah Hebert V1,EQIX,0.03,6000
+Jennah Hebert V1,HD,0.07,14000
+Jennah Hebert V1,IQV,0.03,6000
 Jennah Hebert V1,LRCX,0.07,14000
-Jennah Hebert V1,MKTX,0.09,18000
-Jennah Hebert V1,MTCH,0.12,24000
+Jennah Hebert V1,MSFT,0.07,14000
 Jennah Hebert V1,MU,0.07,14000
-Jennah Hebert V1,SEDG,0.12,24000
-Jennah Hebert V1,SFIX,0.03,6000
-Jennah Hebert V1,SNPS,0.08,16000
-Jennah Hebert V1,SQ,0.03,6000
-Jennah Hebert V1,TGT,0.05,10000
-Jennah Hebert V2,ASML,0.05,10000
-Jennah Hebert V2,AVGO,0.04,8000
-Jennah Hebert V2,CMG,0.08,16000
-Jennah Hebert V2,EQIX,0.03,6000
-Jennah Hebert V2,HD,0.07,14000
-Jennah Hebert V2,IQV,0.03,6000
-Jennah Hebert V2,MSFT,0.07,14000
-Jennah Hebert V2,PG,0.03,6000
-Jennah Hebert V2,ROKU,0.05,10000
-Jennah Hebert V2,SBUX,0.05,10000
-Jennah Hebert V2,TSN,0.03,6000
-Jennah Hebert V2,V,0.03,6000
-Jennah Hebert V2,WDC,0.07,14000
-Jennah Hebert V2,WMT,0.03,6000
-Jennah Hebert V2,ZBH,0.05,10000
+Jennah Hebert V1,PG,0.03,6000
+Jennah Hebert V1,ROKU,0.05,10000
+Jennah Hebert V1,SBUX,0.05,10000
+Jennah Hebert V1,TSN,0.03,6000
+Jennah Hebert V1,V,0.03,6000
+Jennah Hebert V1,WDC,0.07,14000
+Jennah Hebert V1,WMT,0.03,6000
+Jennah Hebert V1,ZBH,0.05,10000
+Jennah Hebert V2,SQ,3%,6000
+Jennah Hebert V2,SFIX,3%,6000
+Jennah Hebert V2,CB,9%,18000
+Jennah Hebert V2,MTCH,12%,24000
+Jennah Hebert V2,COST,10%,20000
+Jennah Hebert V2,SEDG,12%,24000
+Jennah Hebert V2,CMG,12%,24000
+Jennah Hebert V2,MKTX,9%,18000
+Jennah Hebert V2,BLL,9%,18000
+Jennah Hebert V2,SNPS,8%,16000
+Jennah Hebert V2,TGT,5%,10000
+Jennah Hebert V2,AAPL,8%,16000
 JOELEAN MCBRIDE,AAPL,0.15,30000
 JOELEAN MCBRIDE,ATLC,0.1,20000
 JOELEAN MCBRIDE,GCO,0.1,20000

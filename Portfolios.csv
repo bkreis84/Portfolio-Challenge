@@ -23,6 +23,9 @@ Alexandra Sautin,NFLX,0.1,20000
 Alexandra Sautin,PBFS,0.1,20000
 Alexandra Sautin,SBUX,0.1,20000
 Alexandra Sautin,XOM,0.05,10000
+Alisa Cianfarini,PBFS,0.2,40000
+Alisa Cianfarini,DIS,0.2,40000
+Alisa Cianfarini,NFLX,0.6,120000
 Angela Cannistraci,AAPL,0.05,10000
 Angela Cannistraci,BA,0.05,10000
 Angela Cannistraci,C,0.05,10000
@@ -121,7 +124,7 @@ Dan Cancelliere,GE,0.25,50000
 Dan Cancelliere,SNAP,0.25,50000
 DANISH SHARPE,AAPL,0.15,30000
 DANISH SHARPE,BEP,0.05,10000
-DANISH SHARPE,CASH*,0.08,16000
+DANISH SHARPE,CASHPIO,0.08,16000
 DANISH SHARPE,CMCSA,0.08,16000
 DANISH SHARPE,DIS,0.27,54000
 DANISH SHARPE,FSLR,0.05,10000
@@ -176,7 +179,7 @@ Elise Shaver,NFLX,0.08,16680
 Elise Shaver,UEPS,0.25,50000
 Emmalie Giaimo,ADBE,0.2,40000
 Emmalie Giaimo,AMZN,0.2,40000
-Emmalie Giaimo,CASH*,0.06,12000
+Emmalie Giaimo,CASHPIO,0.06,12000
 Emmalie Giaimo,CRI,0.04,8000
 Emmalie Giaimo,CWST,0.02,4000
 Emmalie Giaimo,EA,0.05,10000

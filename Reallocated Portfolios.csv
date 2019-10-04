@@ -1,0 +1,407 @@
+Name,Portfolio#,Stock Symbol,% of Portfolio
+Marie Barkamian,2,AAPL,10%
+Marie Barkamian,2,IBM,10%
+Marie Barkamian,2,PIR,10%
+Marie Barkamian,2,WMT,10%
+Marie Barkamian,2,GOOGL,20%
+Marie Barkamian,2,DOCU,20%
+Marie Barkamian,2,GCO,15%
+Marie Barkamian,2,ATLC,5%
+Mark Jewell,2,XOM,20%
+Mark Jewell,2,FCA,10%
+Mark Jewell,2,TRV,50%
+Mark Jewell,2,SBUX,10%
+Mark Jewell,2,AAPL,10%
+Beth Phillips,2,PIR,50%
+Beth Phillips,2,INGN,35%
+Beth Phillips,2,SFIX,15%
+Nick Capullo,2,PIR,30%
+Nick Capullo,2,PLUG,30%
+Nick Capullo,2,FNMAL,20%
+Nick Capullo,2,ZUMZ,10%
+Nick Capullo,2,AMD,10%
+Danish Sharpe,2,DIS,27%
+Danish Sharpe,2,APPL,20%
+Danish Sharpe,2,FSLR,5%
+Danish Sharpe,2,BEP,7%
+Danish Sharpe,2,BP,5%
+Danish Sharpe,2,PTON,10%
+Danish Sharpe,2,SNE,4%
+Danish Sharpe,2,GOOGL,10%
+Danish Sharpe,2,MSFT,7%
+Danish Sharpe,2,CMCSA,5%
+Nori Lansing,2,COF,20%
+Nori Lansing,2,BOX,7%
+Nori Lansing,2,EGRX,30%
+Nori Lansing,2,DDD,10%
+Nori Lansing,2,NTLA,10%
+Nori Lansing,2,NVTA,10%
+Nori Lansing,2,NTNX,10%
+Nori Lansing,2,CLB,3%
+Caitlyn Fronckowiak,2,BYND,30%
+Caitlyn Fronckowiak,2,DRIP,25%
+Caitlyn Fronckowiak,2,OPRT,25%
+Caitlyn Fronckowiak,2,MNPR,20%
+Joseph Lindner,2,DDD,25%
+Joseph Lindner,2,NTNX,25%
+Joseph Lindner,2,DDOG,25%
+Joseph Lindner,2,WORK,25%
+Elise Shaver,2,SFIX,25%
+Elise Shaver,2,ANGO,25%
+Elise Shaver,2,GWPH,25%
+Elise Shaver,2,HELE,25%
+Kelly Nicholson,2,CHWY,20%
+Kelly Nicholson,2,NVDA,20%
+Kelly Nicholson,2,WBA,20%
+Kelly Nicholson,2,ATVI,20%
+Kelly Nicholson,2,PRGO,20%
+Kwun Chan,2,SEDG,7%
+Kwun Chan,2,DRRX,15%
+Kwun Chan,2,PW,5%
+Kwun Chan,2,ENPH,5%
+Kwun Chan,2,TSM,10%
+Kwun Chan,2,SNAP,8%
+Kwun Chan,2,GPRO,10%
+Kwun Chan,2,CGC,10%
+Kwun Chan,2,APHA,10%
+Kwun Chan,2,GLUU,8%
+Kwun Chan,2,BILI,5%
+Kwun Chan,2,AAPL,5%
+Kwun Chan,2,ASM,2%
+Schuyler Bull,2,AAPL,25%
+Schuyler Bull,2,JPM,25%
+Schuyler Bull,2,ULTA,25%
+Schuyler Bull,2,MAR,25%
+Jennah Hebert V1,2,LRCX,18%
+Jennah Hebert V1,2,AMAT,15%
+Jennah Hebert V1,2,MU,7%
+Jennah Hebert V1,2,WMT,18%
+Jennah Hebert V1,2,APPL,3%
+Jennah Hebert V1,2,EQIX,15%
+Jennah Hebert V1,2,TSN,15%
+Jennah Hebert V1,2,CMG,4%
+Jennah Hebert V1,2,ASML,5%
+Jennah Hebert V2,2,SQ,3%
+Jennah Hebert V2,2,SFIX,10%
+Jennah Hebert V2,2,SNAP,12%
+Jennah Hebert V2,2,SSRM,10%
+Jennah Hebert V2,2,TSLA,15%
+Jennah Hebert V2,2,SEDG,17%
+Jennah Hebert V2,2,CMG,8%
+Jennah Hebert V2,2,TTD,10%
+Jennah Hebert V2,2,IRBT,15%
+Dominick Baker,2,PIR,25%
+Dominick Baker,2,RVNC,25%
+Dominick Baker,2,HOME,25%
+Dominick Baker,2,ACER,25%
+Ryan St. Peter,2,PQEFF,100%
+Randy Benedict,2,CHK,100%
+Peter Odell,2,NET,20%
+Peter Odell,2,AMZN,10%
+Peter Odell,2,KR,15%
+Peter Odell,2,SDC,20%
+Peter Odell,2,BABA,10%
+Peter Odell,2,MTZ,5%
+Peter Odell,2,TWTR,10%
+Peter Odell,2,AAPL,10%
+Rekha Singh ,2,CHWY,10%
+Rekha Singh ,2,XOM,10%
+Rekha Singh ,2,C,10%
+Rekha Singh ,2,BA,10%
+Rekha Singh ,2,DELL,15%
+Rekha Singh ,2,AAPL,15%
+Rekha Singh ,2,IAG,10%
+Rekha Singh ,2,PBFS,10%
+Rekha Singh ,2,CVRS,10%
+Pete Lindner,2,AMRH,60%
+Pete Lindner,2,POAI,22%
+Pete Lindner,2,SUMR,8%
+Pete Lindner,2,SGBX,5%
+Pete Lindner,2,SINO,5%
+Lyn Wiltsie,2,PIR,20%
+Lyn Wiltsie,2,ACER,20%
+Lyn Wiltsie,2,DNR,20%
+Lyn Wiltsie,2,ATLC,20%
+Lyn Wiltsie,2,DOCU,20%
+Brian Kreis,2,ROAD,20%
+Brian Kreis,2,CPE,15%
+Brian Kreis,2,SYF,15%
+Brian Kreis,2,HOME,15%
+Brian Kreis,2,OI,15%
+Brian Kreis,2,MASI,20%
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

@@ -1,4 +1,4 @@
-Port  #,New Cost Basis,Name,Symbol,% of Portfolio,Cost Basis
+Port_Num,New Cost Basis,Name,Symbol,% of Portfolio,Cost Basis
 1,194413.7192,Adrienne Villano,AAPL,0.07,14000
 1,194413.7192,Adrienne Villano,AGTHX,0.11,22000
 1,194413.7192,Adrienne Villano,AMZN,0.07,14000
